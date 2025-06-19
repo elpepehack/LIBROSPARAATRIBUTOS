@@ -29,7 +29,7 @@ namespace T3_PILCO_JOSE.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
-        public IActionResult InfoDistribuidores()
+        public IActionResult LibrosTecnicos()
         {
             return View();
         }

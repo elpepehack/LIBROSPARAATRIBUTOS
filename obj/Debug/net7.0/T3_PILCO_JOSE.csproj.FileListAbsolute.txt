@@ -578,3 +578,4 @@ C:\Users\pilco\Downloads\T3_pilco\T3_pilco\T3_PILCO_JOSE\T3_PILCO_JOSE\obj\Debug
 C:\Users\pilco\Downloads\T3_pilco\T3_pilco\T3_PILCO_JOSE\T3_PILCO_JOSE\obj\Debug\net7.0\T3_PILCO_JOSE.pdb
 C:\Users\pilco\Downloads\T3_pilco\T3_pilco\T3_PILCO_JOSE\T3_PILCO_JOSE\obj\Debug\net7.0\T3_PILCO_JOSE.genruntimeconfig.cache
 C:\Users\pilco\Downloads\T3_pilco\T3_pilco\T3_PILCO_JOSE\T3_PILCO_JOSE\obj\Debug\net7.0\ref\T3_PILCO_JOSE.dll
+C:\Users\pilco\Downloads\T3_pilco\T3_pilco\T3_PILCO_JOSE\T3_PILCO_JOSE\obj\Debug\net7.0\T3_PILCO_JOSE.sourcelink.json
